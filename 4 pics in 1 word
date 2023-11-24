@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title> 4 Pics in 1 Word </title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="./4pics1word_style.css">
+    </head>
+    <body>
+        <div id="game-box">
+            <div id="header">
+            <p> 4 Pictures in 1 Word with a Twist<p>
+        </div>
+
+        <div id="game-place">
+            <div id="pictures">
+            
+
+            </div>
+        </div>
+    </body>
+</html>>
